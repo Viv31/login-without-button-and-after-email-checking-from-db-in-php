@@ -1,0 +1,9 @@
+In this code initially only email field is visible to user when user insert email if it is in database it shows border green and message email matched and shows a new field for inserting password  else it shows email is not matched
+
+when user enter right password it automatically redirect to dashborad otherwise it shows error password is not matched.
+
+Note:Here i am not maintaining session for logout purpose.
+
+For testing :
+Username:abc@gmail.com
+Password:1234
